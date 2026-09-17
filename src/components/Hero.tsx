@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowDown, Instagram, Youtube } from 'lucide-react';
-import { artist } from '@/data/config';
+import { artist } from '../data/config';
 
 const Hero: React.FC = () => {
   return (
