@@ -1,0 +1,6 @@
+{
+  "name": "DJ TOTO TM",
+  "description": "Official digital home of DJ TOTO TM — DJ, Music Producer, Marathi DJ Remix Artist, and Audio Visual Creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
